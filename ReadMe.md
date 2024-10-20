@@ -1,5 +1,5 @@
 # Weather Forecast App
----
+
 ## Table of Contents
 
 - [Overview](#overview)

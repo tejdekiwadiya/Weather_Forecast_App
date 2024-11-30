@@ -115,6 +115,15 @@ VITE_API_KEY=key
 
 ### Usage
 
+1. Start the Project:
+
+   ```bash
+   cd server (or client)
+   npm run start
+   ```
+
+or
+
 1. Start the server:
 
    ```bash
